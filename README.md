@@ -1,11 +1,8 @@
 # E-Commerce Project
 
 
-Hi, this project is a fully responsive e-commerce website project made only HTML, CSS and JavaScript.
+Hi, this project is a fully responsive e-commerce website project made using only HTML, CSS , JavaScript and React.js , featuring core pages such as Home, Shop, Blog, and Contact.
 
-No framework or library (except glide.js) was used throughout the project.
-
-
-You can reach the live link of the project from the link below.
+Check out the live demo through the following link.
 
 Link : [https://commerce-project.netlify.app/](http://127.0.0.1:5500/e-commerce-project-master/index.html)
